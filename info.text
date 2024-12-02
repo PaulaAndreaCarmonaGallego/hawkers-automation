@@ -1,0 +1,5 @@
+Configuración inicial
+
+1- npm init - Garantizar la creación del package.json
+2- npm install cypress --save-dev - Instalar Cypress
+3- node_modules/.bin/cypress open - Ejecutar Cypress
